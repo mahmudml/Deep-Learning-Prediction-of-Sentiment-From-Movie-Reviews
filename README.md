@@ -1,8 +1,8 @@
-# Deep-Learning-Predicttion-of-Sentiment-From-Movie-Reviews
+## Deep-Learning-Predicttion-of-Sentiment-From-Movie-Reviews
 
 This repository contains code and resources for sentiment prediction from movie reviews using deep learning, specifically Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN) models.
 
-## Overview
+# Overview
 Sentiment analysis, also known as opinion mining, is the task of determining the sentiment expressed in a piece of text. In this project, we aim to predict the sentiment (positive or negative) of movie reviews using deep learning models.
 
 We explore two popular deep learning architectures: MLP and one dimensional CNN. Both models are implemented and trained on a dataset of movie reviews to learn the sentiment associated with each review. The trained models can then be used to classify the sentiment of new movie reviews.
