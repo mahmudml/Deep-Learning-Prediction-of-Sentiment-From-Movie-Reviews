@@ -1,4 +1,4 @@
-# Deep-Learning-Predicttion-of-Sentiment-From-Movie-Reviews
+# Deep-Learning-Prediction-of-Sentiment-From-Movie-Reviews
 
 This repository contains code and resources for sentiment prediction from movie reviews using deep learning, specifically Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN) models.
 
